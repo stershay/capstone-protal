@@ -1,0 +1,8 @@
+<!-- Main Student Login (capstone.html) -->
+form #sButton input[type=text]{
+    width: 80%;
+}
+
+body {
+    color:red;
+}

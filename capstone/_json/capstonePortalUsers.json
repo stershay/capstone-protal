@@ -1,0 +1,52 @@
+{
+"Students":
+{
+    "StudentUsers": [
+        {
+            "Username" : "Student_01",
+            "Password" : "password",
+            "StudentName" : "Adam C.",
+            "StudentID" : "991-286-168",
+            "CapstoneGroup" : "Blooms"
+        },
+        {
+            "Username" : "Student_02",
+            "Password" : "password",
+            "StudentName" : "Shayne S.",
+            "StudentID" : "991-257-430",
+            "CapstoneGroup" : "Blooms"
+        }
+    ]
+},
+"Clients":
+{
+    "ClientUsers": [
+        {
+            "Username" : "Client_01",
+            "Password" : "password",
+            "ClientName" : "ClientName_01",
+            "PojectProposal" : "Poposal_01",
+            "CompanyName" : "Company_01",
+        },
+        {
+            "Username" : "Client_02",
+            "Password" : "password",
+            "ClientName" : "ClientName_01",
+            "PojectProposal" : "Poposal_01",
+            "CompanyName" : "Company_01",
+        }
+    ]
+},
+"Admininstrators":
+{
+    "AdminUsers": [
+        {
+            "Username" : "Admin_01",
+            "Password" : "password",
+        },
+        {
+            "Username" : "Admin_02",
+            "Password" : "password",
+        }
+    ]
+}}
